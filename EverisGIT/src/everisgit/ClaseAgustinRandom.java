@@ -5,16 +5,14 @@
  */
 package everisgit;
 
-import static jdk.nashorn.internal.objects.NativeMath.sqrt;
-
 /**
  *
- * @author fabri
+ * @author Alumno
  */
-public class Raiz {
-    
-    public String raiz(int a, int b){
-        return "Esta es la raiz de: a y b" ;
+public class ClaseAgustinRandom {
+
+    public ClaseAgustinRandom() {
+        System.out.println("Trabajo en conjunto de Git");
     }
     
 }

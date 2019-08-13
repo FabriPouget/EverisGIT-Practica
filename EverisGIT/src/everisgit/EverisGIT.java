@@ -31,6 +31,7 @@ public class EverisGIT {
         System.out.println(obj4.dividir(a, b));
         System.out.println(obj5.elevar(a, b));
         System.out.println(obj6.raiz(a, b));
+        ClaseAgustinRandom agustin = new ClaseAgustinRandom();
     }
     
 }
