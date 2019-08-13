@@ -22,10 +22,15 @@ public class EverisGIT {
         Multiplicacion obj3= new Multiplicacion();
         Division obj4 = new Division();
         
+        Potencia obj5 = new Potencia();
+        Raiz obj6 = new Raiz();
+        
         System.out.println(obj1.sumar(a, b));
         System.out.println(obj2.restar(a, b));
         System.out.println(obj3.multiplicar(a, b));
         System.out.println(obj4.dividir(a, b));
+        System.out.println(obj5.elevar(a, b));
+        System.out.println(obj6.raiz(a, b));
     }
     
 }
